@@ -406,3 +406,21 @@ div#map {
         max-width: 50%;
     }
 }
+
+/*--------------------------------------------portfolio*/
+
+.text {
+    color: black;
+}
+
+.margin {
+    margin-left: 3vh;
+}
+
+.box {
+    margin: 3vh;
+}
+
+.box-s {
+    margin: 1vh;
+}
