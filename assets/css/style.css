@@ -426,7 +426,7 @@ div#map {
 }
 
 .mr-kris-tattoo-shop-bg {
-    background: url("../images/mrkristattooshop.JPG");
+    background-image: url("../images/mrkristattooshop.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -434,5 +434,9 @@ div#map {
 }
 
 .bg {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(128, 128, 128, 0.7);
+}
+
+.portfolio-text {
+    color: black;
 }
