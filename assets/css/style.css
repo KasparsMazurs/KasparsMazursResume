@@ -424,3 +424,15 @@ div#map {
 .box-s {
     margin: 1vh;
 }
+
+.mr-kris-tattoo-shop-bg {
+    background: url("../images/mrkristattooshop.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100px;
+}
+
+.bg {
+    background: rgba(0, 0, 0, 0.5);
+}
