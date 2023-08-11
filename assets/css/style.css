@@ -425,18 +425,17 @@ div#map {
     margin: 1vh;
 }
 
-.mr-kris-tattoo-shop-bg {
-    background-image: url("../images/mrkristattooshop.JPG");
+.portfolio-bg {
+    background-image: url("https://www.topuniversities.com/sites/default/files/styles/articles_inline/public/articles/lead-images/coding.jpg.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100px;
 }
 
 .bg {
-    background: rgba(128, 128, 128, 0.7);
+    background: rgba(155, 155, 155, 0.7);
 }
 
 .portfolio-text {
-    color: black;
+    color: white;
 }
